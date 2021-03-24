@@ -1,2 +1,2 @@
-# flask_starter
-Starter code for a new Flask Application
+# info-3180 project 1
+K-Cyanne Beckford
